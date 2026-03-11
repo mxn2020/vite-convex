@@ -1,15 +1,17 @@
-id: 44b3bc74-ac96-48bc-b647-fb715aee129d
 name: vite-convex-scaffold
+project_scope: main
+project_type: standalone
 description: Minimal Vite + React + Convex project scaffold template for rapid app creation
 tier: production
 lane: infra
 priority: high
-category: boilerplate
-focus: true
 oss: true
 stack: [typescript, react, convex, vite]
-repo: https://github.com/mxn2020/vite-convex
-deploy_url: null
+repo: "https://github.com/mxn2020/vite-convex"
+deploy_url: "null  # boilerplate template — not deployed standalone"
 last_active: 2026-03-03
 tags: [boilerplate, scaffold, template, react, convex, vite]
 notes: Minimal scaffold template used for spinning up new mehdi-verse apps
+category: boilerplate
+focus: true
+id: 44b3bc74-ac96-48bc-b647-fb715aee129d

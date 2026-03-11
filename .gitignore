@@ -40,3 +40,7 @@ coverage/
 
 # Misc
 *.tsbuildinfo
+
+# Added by AI Agent
+.env.*
+!.env.example
