@@ -1,0 +1,12 @@
+# Accounts for: vite-convex-scaffold
+# Service account references for this project
+
+convex: ""
+github: mxn2020
+hosting: ""
+
+# --- Merged from ACCOUNTS.yaml ---
+# Accounts for: "{{APP_SLUG}}"
+# Fill in the account name/email for each service
+
+convex: ""
