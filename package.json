@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Minimal Vite + React + Convex project scaffold template for rapid app creation",
   "author": "Mehdi Nabhani <mehdi@geenius.dev>",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/mxn2020/vite-convex.git"
