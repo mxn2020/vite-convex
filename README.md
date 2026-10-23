@@ -64,7 +64,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for development workflow.
 
 ## License
 
-[MIT](./LICENSE) © AVS Media
+[Apache-2.0](./LICENSE) © AVS Media
 
 ---
 
