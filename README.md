@@ -64,7 +64,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for development workflow.
 
 ## License
 
-[MIT](./LICENSE) © Mehdi Nabhani
+[MIT](./LICENSE) © AVS Media
 
 ---
 
